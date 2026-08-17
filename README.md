@@ -187,7 +187,7 @@ Each repository focuses on a different area of IT infrastructure while remaining
 | Status | Part   | Repository                                                                                             |
 | ------ | ------ | ------------------------------------------------------------------------------------------------------ |
 | ✅      | Part 1 | [IT-HomeLab-Windows-Infrastructure](https://github.com/ali-turkoglu/IT-HomeLab-Windows-Infrastructure) |
-| ✅     | Part 2 | [IT-HomeLab-Cloud-Identity (Core topics completed; Exchange Server pending)](https://github.com/ali-turkoglu/IT-HomeLab-Cloud-Identity)                 |
+| ✅     | Part 2 | [IT-HomeLab-Cloud-Identity](https://github.com/ali-turkoglu/IT-HomeLab-Cloud-Identity) (Core topics completed; Exchange Server pending)                 |
 | 🚧     | Part 3 | IT-HomeLab-Linux-Administration (Current Repository)                                                   |
 | ⏳      | Part 4 | IT-HomeLab-Docker-Containers                                                                           |
 | ⏳      | Part 5 | IT-HomeLab-Linux-Operations                                                                            |

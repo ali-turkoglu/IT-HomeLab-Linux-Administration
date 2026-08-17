@@ -174,3 +174,11 @@ Initially, I tried disabling IPv6 through the network configuration, but the int
 ## Result
 
 `ubuntu01` is now fully operational, updated, and accessible via SSH. The VM is integrated with Proxmox, and the base Linux infrastructure is ready for the next administration phases.
+
+---
+
+## Navigation
+
+| Previous | Home | Next |
+|:--------:|:----:|:----:|
+| ⬅️ [Project Overview](../../README.md) | 🏠 [Home](../../README.md) | ➡️ Phase 2 – Linux Users, Groups & Permissions(**Comming Soon**) |

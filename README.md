@@ -112,7 +112,7 @@ The project is divided into separate phases. Each phase focuses on one main topi
 
 ## Linux Administration
 
-* ✅ [Phase 1 – Ubuntu Server Installation & Base Configuration](docs/phase-01-ubuntu-server-installation/)
+* ✅ [Phase 1 – Ubuntu Server Installation & Base Configuration](docs/1-Ubuntu-Server-Installation-Base-Configuration/README.md)
 * 🚧 [Phase 2 – Linux Users, Groups & Permissions](docs/phase-02-users-groups-permissions/)
 * ⏳ Phase 3 – Linux Filesystem & Storage Basics
 * ⏳ Phase 4 – SSH & Remote Administration

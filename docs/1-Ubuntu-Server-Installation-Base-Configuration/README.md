@@ -181,4 +181,4 @@ Initially, I tried disabling IPv6 through the network configuration, but the int
 
 | Previous | Home | Next |
 |:--------:|:----:|:----:|
-| ⬅️ [Project Overview](../../README.md) | 🏠 [Home](../../README.md) | ➡️ Phase 2 – Linux Users, Groups & Permissions(**Comming Soon**) |
+| ⬅️ [Project Overview](../../README.md) | 🏠 [Home](../../README.md) | ➡️ [Phase 2 – Linux Users, Groups & Permissions](../2-Linux-Users-Groups-Permissions/README.md) |

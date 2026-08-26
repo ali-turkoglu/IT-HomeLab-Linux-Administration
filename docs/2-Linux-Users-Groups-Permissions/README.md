@@ -513,4 +513,4 @@ Useful configuration files and directories:
 
 | Previous | Home | Next |
 |:--------:|:----:|:----:|
-| ⬅️ [1-Ubuntu-Server-Installation-Base-Configuration](../1-Ubuntu-Server-Installation-Base-Configuration/README.md) | 🏠 [Home](../../README.md) | ➡️ Phase 3 – Linux Filesystem & Storage Basics(**Comming Soon**) |
+| ⬅️ [1-Ubuntu-Server-Installation-Base-Configuration](../1-Ubuntu-Server-Installation-Base-Configuration/README.md) | 🏠 [Home](../../README.md) | ➡️ [Phase 3 – Linux Filesystem & Storage Basics](../3-Linux-Filesystem-Storage-Basics/README.md) |

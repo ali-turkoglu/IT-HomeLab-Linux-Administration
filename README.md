@@ -115,8 +115,8 @@ The project is divided into separate phases. Each phase focuses on one main topi
 * ✅ [Phase 1 – Ubuntu Server Installation & Base Configuration](docs/1-Ubuntu-Server-Installation-Base-Configuration/README.md)
 * ✅ [Phase 2 – Linux Users, Groups & Permissions](docs/2-Linux-Users-Groups-Permissions/README.md)
 * ✅ [Phase 3 – Linux Filesystem & Storage Basics](docs/3-Linux-Filesystem-Storage-Basics/README.md)
-* 🚧 Phase 4 – SSH & Remote Administration
-* ⏳ Phase 5 – Package & Service Management
+* ✅ [Phase 4 - SSH & Remote Administration](docs/4-SSH-Remote-Administration/README.md)
+* 🚧 Phase 5 – Package & Service Management
 * ⏳ Phase 6 – Processes, Logs & Troubleshooting
 * ⏳ Phase 7 – Linux Networking
 * ⏳ Phase 8 – Linux Security & Hardening
@@ -137,6 +137,7 @@ This timeline shows the main milestones of the project.
 | 17-08-2026 | Phase 1 – Ubuntu Server Installation & Base Configuration completed |
 | 22-08-2026 | Phase 2 – Linux Users, Groups & Permissions completed |
 | 26-08-2026 | Phase 3 – Linux Filesystem & Storage Basics completed |
+| 31-08-2026 | Phase 4 - SSH & Remote Administration completed |
 
 The timeline will be updated as the project progresses.
 

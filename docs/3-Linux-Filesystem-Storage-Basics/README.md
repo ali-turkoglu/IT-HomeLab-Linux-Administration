@@ -298,4 +298,4 @@ The Ubuntu Server now features a dedicated 24 GiB LVM-based data filesystem pers
 
 | Previous | Home | Next |
 |:--------:|:----:|:----:|
-| ⬅️ [2- Linux Users Groups & Permissions](../2-Linux-Users-Groups-Permissions/README.md) | 🏠 [Home](../../README.md) | ➡️ [4- SSH-Remote-Administration](../4-SSH-Remote-Administration/README,md) |
+| ⬅️ [2- Linux Users Groups & Permissions](../2-Linux-Users-Groups-Permissions/README.md) | 🏠 [Home](../../README.md) | ➡️ [4- SSH-Remote-Administration](../4-SSH-Remote-Administration/README.md) |

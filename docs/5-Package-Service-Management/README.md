@@ -121,7 +121,7 @@ uname -r
 
 | Kernel Upgrade Verification |
 |:---------------------------:|
-| ![](images/01-kernel-upgrade-verification.png) |
+| ![](images/1-kernel-upgrade-verification.png) |
 
 The active kernel was now:
 
@@ -178,7 +178,7 @@ The server uses:
 
 | APT Repository Configuration |
 |:----------------------------:|
-| ![](images/02-apt-repository-configuration.png) |
+| ![](images/2-apt-repository-configuration.png) |
 
 The legacy repository file was also checked:
 
@@ -298,7 +298,7 @@ systemctl status ssh.socket
 
 | SSH Socket Status |
 |:-----------------:|
-| ![](images/03-ssh-socket-status.png) |
+| ![](images/3-ssh-socket-status.png) |
 
 The socket was enabled and active. It listens for SSH connections and triggers `ssh.service` when needed.
 
@@ -345,7 +345,7 @@ inactive (dead)
 
 | QEMU Guest Agent Stopped |
 |:------------------------:|
-| ![](images/04-qemu-service-stopped.png) |
+| ![](images/4-qemu-service-stopped.png) |
 
 The service was started again:
 
@@ -405,7 +405,7 @@ systemctl status ssh
 
 | SSH Service Reload |
 |:------------------:|
-| ![](images/05-ssh-service-reload.png) |
+| ![](images/5-ssh-service-reload.png) |
 
 The main SSH process ID remained the same.
 
@@ -507,7 +507,7 @@ systemctl status apt-daily-upgrade.timer
 
 | APT Daily Upgrade Timer |
 |:-----------------------:|
-| ![](images/07-apt-daily-upgrade-timer.png) |
+| ![](images/7-apt-daily-upgrade-timer.png) |
 
 The timer was enabled and waiting for its next scheduled run.
 
@@ -525,7 +525,7 @@ The configuration allows security updates for unattended installation. Normal `-
 
 | Unattended Upgrades Policy | Auto Upgrades Configuration |
 |:--------------------------:|:---------------------------:|
-| ![](images/08-unattended-upgrades-policy.png) | ![](images/09-auto-upgrades-configuration.png) |
+| ![](images/8-unattended-upgrades-policy.png) | ![](images/9-auto-upgrades-configuration.png) |
 
 ### Automatic Reboot
 

@@ -485,4 +485,4 @@ The local Ubuntu administrator account remains available for administration and 
 
 | Previous | Home | Next |
 | :--- | :---: | ---: |
-| ⬅️ [**3-Linux Filesystem & Storage Basics**](../3-Linux-Filesystem-Storage-Basics/README.md) | 🏠 [**Home**](../../README.md) | ➡️ **Phase 5 – Package Management & Updates** *(Coming Soon)* |
+| ⬅️ [**3-Linux Filesystem & Storage Basics**](../3-Linux-Filesystem-Storage-Basics/README.md) | 🏠 [**Home**](../../README.md) | ➡️ [**Phase 5 – Package Management & Updates**](../5-Package-Service-Management/README.md) |

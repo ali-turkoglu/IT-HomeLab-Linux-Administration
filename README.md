@@ -117,8 +117,8 @@ The project is divided into separate phases. Each phase focuses on one main topi
 * ✅ [Phase 3 – Linux Filesystem & Storage Basics](docs/3-Linux-Filesystem-Storage-Basics/README.md)
 * ✅ [Phase 4 - SSH & Remote Administration](docs/4-SSH-Remote-Administration/README.md)
 * ✅ [Phase 5 – Package & Service Management](docs/5-Package-Service-Management/README.md) 
-* 🚧 Phase 6 – Processes, Logs & Troubleshooting
-* ⏳ Phase 7 – Linux Networking
+* ✅ [Phase 6 - Processes, Logs & Troubleshooting](docs/6-Processes-Logs-Troubleshooting/README.md)
+* 🚧 Phase 7 – Linux Networking
 * ⏳ Phase 8 – Linux Security & Hardening
 
 > **Project Status:** 🚧 In Progress
@@ -139,6 +139,7 @@ This timeline shows the main milestones of the project.
 | 26-08-2026 | Phase 3 – Linux Filesystem & Storage Basics completed |
 | 31-08-2026 | Phase 4 - SSH & Remote Administration completed |
 | 04-09-2026 | Phase 5 – Package & Service Management completed |
+| 08-09-2026 | Phase 6 - Processes, Logs & Troubleshooting completed |
 
 The timeline will be updated as the project progresses.
 

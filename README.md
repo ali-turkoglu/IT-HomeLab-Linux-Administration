@@ -119,7 +119,9 @@ The project is divided into separate phases. Each phase focuses on one main topi
 * ✅ [Phase 5 – Package & Service Management](docs/5-Package-Service-Management/README.md) 
 * ✅ [Phase 6 - Processes, Logs & Troubleshooting](docs/6-Processes-Logs-Troubleshooting/README.md)
 * 🚧 Phase 7 – Linux Networking
-* ⏳ Phase 8 – Linux Security & Hardening
+* ⏳ Phase 8 – WireGuard VPN & Secure Remote Access
+* ⏳ Phase 9 – Active Directory Integration & Centralized Authentication
+* ⏳ Phase 10 – Linux Security & Hardening
 
 > **Project Status:** 🚧 In Progress
 

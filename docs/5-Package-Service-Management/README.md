@@ -628,4 +628,4 @@ The final check showed no failed systemd units.
 
 | Previous | Home | Next |
 |:--------:|:----:|:----:|
-| ⬅️ [Phase 4: SSH & Remote Administration](../4-SSH-Remote-Administration/README.md) | 🏠 [Home](../../README.md) | ➡️ Phase 6: Processes & Logs *(Coming Soon)* |
+| ⬅️ [Phase 4: SSH & Remote Administration](../4-SSH-Remote-Administration/README.md) | 🏠 [Home](../../README.md) | ➡️ [Phase 6: Processes, Logs & Troubleshooting](../6-Processes-Logs-Troubleshooting/README.md) |

@@ -191,4 +191,4 @@ The server finished the phase with responsive SSH access, synchronized system ti
 
 | Previous | Home | Next |
 |:--------:|:----:|:----:|
-| ⬅️ [Phase 5: Package & Service Management](../5-Package-Service-Management/README.md) | 🏠 [Home](../../README.md) | ➡️ Phase 7: Linux Networking *(Coming Soon)* |
+| ⬅️ [Phase 5: Package & Service Management](../5-Package-Service-Management/README.md) | 🏠 [Home](../../README.md) | ➡️ [Phase 7: Linux Networking](../7-Linux-Networking/README.md) |

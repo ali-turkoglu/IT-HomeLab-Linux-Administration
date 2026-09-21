@@ -119,8 +119,8 @@ The project is divided into separate phases. Each phase focuses on one main topi
 * ✅ [Phase 5 – Package & Service Management](docs/5-Package-Service-Management/README.md) 
 * ✅ [Phase 6 - Processes, Logs & Troubleshooting](docs/6-Processes-Logs-Troubleshooting/README.md)
 * ✅ [Phase 7 – Linux Networking](docs/7-Linux-Networking/README.md)
-* 🚧 Phase 8 – WireGuard VPN & Secure Remote Access
-* ⏳ Phase 9 – Active Directory Integration & Centralized Authentication
+* ✅ [Phase 8 – WireGuard VPN & Secure Remote Access](docs/8-WireGuard-VPN-Secure-Remote-Access/README.md)
+* 🚧 Phase 9 – Active Directory Integration & Centralized Authentication
 * ⏳ Phase 10 – Linux Security & Hardening
 
 > **Project Status:** 🚧 In Progress
@@ -143,6 +143,7 @@ This timeline shows the main milestones of the project.
 | 04-09-2026 | Phase 5 – Package & Service Management completed |
 | 08-09-2026 | Phase 6 - Processes, Logs & Troubleshooting completed |
 | 09-09-2026 | Phase 7 - Linux Networking completed|
+| 21-09-2026 | Phase 8 – WireGuard VPN & Secure Remote Access completed|
 
 The timeline will be updated as the project progresses.
 

@@ -267,4 +267,4 @@ All tests completed successfully in the HomeLab environment.
 
 | Previous | Home | Next |
 |:--------:|:----:|:----:|
-| ⬅️ [Phase 6: Processes, Logs & Troubleshooting](../6-Processes-Logs-Troubleshooting/README.md) | 🏠 [Home](../../README.md) | ➡️ Phase 8: WireGuard VPN & Secure Remote Access *(Coming Soon)* |
+| ⬅️ [Phase 6: Processes, Logs & Troubleshooting](../6-Processes-Logs-Troubleshooting/README.md) | 🏠 [Home](../../README.md) | ➡️ [Phase 8: WireGuard VPN & Secure Remote Access](../8-WireGuard-VPN-Secure-Remote-Access/README.md) |

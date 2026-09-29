@@ -425,4 +425,4 @@ The HomeLab can now be accessed remotely through WireGuard without exposing its 
 
 | Previous | Home | Next |
 |:--------:|:----:|:----:|
-| ⬅️ [Phase 7: Linux Networking](../7-Linux-Networking/README.md) | 🏠 [Home](../../README.md) | ➡️ Phase 9: Active Directory Integration *(Coming Soon)* |
+| ⬅️ [Phase 7: Linux Networking](../7-Linux-Networking/README.md) | 🏠 [Home](../../README.md) | ➡️ [Phase 9: Active Directory Integration & Centralized Authentication](../9-Active-Directory-Integration-Centralized-Authentication/README.md) |

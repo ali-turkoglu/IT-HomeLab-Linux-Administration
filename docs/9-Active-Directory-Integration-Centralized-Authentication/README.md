@@ -282,4 +282,4 @@ This connects the Linux server to the same centralized identity environment alre
 
 | Previous | Home | Next |
 |:--------:|:----:|:----:|
-| ⬅️ [Phase 8: WireGuard VPN & Secure Remote Access](../8-WireGuard-VPN-Secure-Remote-Access/README.md) | 🏠 [Home](../../README.md) | ➡️ Phase 10: Linux Security & Hardening *(Coming Soon)* |
+| ⬅️ [Phase 8: WireGuard VPN & Secure Remote Access](../8-WireGuard-VPN-Secure-Remote-Access/README.md) | 🏠 [Home](../../README.md) | ➡️ [Phase 10: Linux Security & Hardening](../10-Linux-Security-Hardening/README.md) |

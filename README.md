@@ -100,7 +100,7 @@ The Ubuntu Server is part of the same HomeLab as the Windows and Microsoft cloud
 
 Ubuntu Server runs as a VM on Proxmox VE. It uses the existing internal DNS service and Active Directory identities. WireGuard provides remote access to the HomeLab.
 
-This server will also provide the foundation for the planned Docker and Linux Operations work.
+This server provides the foundation for the Docker environment in Part 4 and the planned Linux Operations work in Part 6.
 
 ---
 
@@ -178,8 +178,6 @@ The planned phases are:
 7. Final Small Company Linux Operations Scenario
 
 These topics will build on the work in Parts 3 and 4.
-
----
 
 ---
 

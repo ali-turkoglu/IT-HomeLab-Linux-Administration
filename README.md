@@ -6,7 +6,7 @@
 >
 > This repository documents my practical Linux administration work with Ubuntu Server, remote access, services, networking, security, and troubleshooting.
 
-**Note:** This repository covers **Part 3 – Linux Administration**. Docker and Linux operations are the focus of the next two projects.
+**Note:** This repository covers **Part 3 – Linux Administration**. Part 4 covers Docker and containers. Part 5 will focus on IT support and troubleshooting, followed by Linux Operations in Part 6.
 
 ---
 
@@ -143,26 +143,29 @@ The project was divided into phases. Each phase focused on one main topic and bu
 
 ### Part 4 – Docker & Containers
 
-> **Status:** 🚧 In Progress — planning and preparation
+> **Status:** ✅ Completed
 
-The next part focuses on Docker and container management. I will use the Linux foundation from this repository to learn container administration and run selected services.
+I used the Linux foundation from this repository to install Docker Engine, work with persistent storage and container networking, and manage services with Docker Compose and Portainer.
 
-The planned phases are:
+I deployed GLPI with MySQL and tested the ticket workflow, data persistence, backups, and LAN/VPN access.
 
-1. Docker Fundamentals & Installation
-2. Docker Storage & Container Data
-3. Docker Networking
-4. Docker Compose
-5. Container Management with Portainer
-6. Web Service Containers
-7. Database Containers
-8. Real Multi-Container Application
+See [Part 4 – Docker & Containers](https://github.com/ali-turkoglu/IT-HomeLab-Docker-Containers) for the completed phases.
 
-### Part 5 – Linux Operations
+### Part 5 – IT Support & Troubleshooting Lab
 
 > **Status:** ⏳ Planned
 
-Part 5 will focus on operating and maintaining the Linux and container environment.
+I will use GLPI and the existing HomeLab to investigate simulated incidents and service requests, verify solutions, and document the ticket workflow.
+
+All cases will be maintained in one dedicated support repository, with a separate page for each case.
+
+The overview and case summaries will be in English. Detailed case documentation and GLPI ticket notes will be in German.
+
+### Part 6 – Linux Operations
+
+> **Status:** ⏳ Planned
+
+Part 6 will focus on operating and maintaining the Linux and container environment.
 
 The planned phases are:
 
@@ -178,6 +181,8 @@ These topics will build on the work in Parts 3 and 4.
 
 ---
 
+---
+
 ## IT-HomeLab Series
 
 This repository is Part 3 of my IT-HomeLab Series.
@@ -190,8 +195,8 @@ Each repository focuses on a different area of IT administration while remaining
 | **Part 2** | Cloud Identity & Microsoft 365 | ✅ Completed | [IT-HomeLab-Cloud-Identity](https://github.com/ali-turkoglu/IT-HomeLab-Cloud-Identity) |
 | **Part 3** | Linux Administration | ✅ Completed | **IT-HomeLab-Linux-Administration** (Current Repository) |
 | **Part 4** | Docker & Containers | ✅ Completed | [IT-HomeLab-Docker-Containers](https://github.com/ali-turkoglu/IT-HomeLab-Docker-Containers) |
-| **Related Project** | IT Support & Troubleshooting Lab | ⏳ Planned | Repository coming soon |
-| **Part 5** | Linux Operations | ⏳ Planned | Repository not created yet |
+| **Part 5** | IT Support & Troubleshooting Lab | ⏳ Planned | Repository coming soon |
+| **Part 6** | Linux Operations | ⏳ Planned | Repository not created yet |
 
 [← Back to IT HomeLab Journey](https://github.com/ali-turkoglu/IT-HomeLab-Journey)
 

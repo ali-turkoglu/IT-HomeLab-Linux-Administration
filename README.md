@@ -180,17 +180,20 @@ These topics will build on the work in Parts 3 and 4.
 
 ## IT-HomeLab Series
 
-Each repository focuses on a different area of IT infrastructure. All parts belong to the same connected HomeLab environment.
+This repository is Part 3 of my IT-HomeLab Series.
 
-| Status | Part | Repository |
-|:---|:---|:---|
-| ✅ Completed | Part 1 – Windows Infrastructure | [IT-HomeLab-Windows-Infrastructure](https://github.com/ali-turkoglu/IT-HomeLab-Windows-Infrastructure) |
-| ✅ Completed | Part 2 – Cloud Identity & Microsoft 365 | [IT-HomeLab-Cloud-Identity](https://github.com/ali-turkoglu/IT-HomeLab-Cloud-Identity) |
-| ✅ Completed | Part 3 – Linux Administration | IT-HomeLab-Linux-Administration (Current Repository) |
-| 🚧 In Progress | Part 4 – Docker & Containers | IT-HomeLab-Docker-Containers |
-| ⏳ Planned | Part 5 – Linux Operations | IT-HomeLab-Linux-Operations |
+Each repository focuses on a different area of IT administration while remaining part of the same connected HomeLab environment.
 
-[Back to IT HomeLab Journey](https://github.com/ali-turkoglu/IT-HomeLab-Journey)
+| Part | Focus | Status | Repository |
+|:---|:---|:---:|:---|
+| **Part 1** | Windows Infrastructure | ✅ Completed | [IT-HomeLab-Windows-Infrastructure](https://github.com/ali-turkoglu/IT-HomeLab-Windows-Infrastructure) |
+| **Part 2** | Cloud Identity & Microsoft 365 | ✅ Completed | [IT-HomeLab-Cloud-Identity](https://github.com/ali-turkoglu/IT-HomeLab-Cloud-Identity) |
+| **Part 3** | Linux Administration | ✅ Completed | **IT-HomeLab-Linux-Administration** (Current Repository) |
+| **Part 4** | Docker & Containers | ✅ Completed | [IT-HomeLab-Docker-Containers](https://github.com/ali-turkoglu/IT-HomeLab-Docker-Containers) |
+| **Related Project** | IT Support & Troubleshooting Lab | ⏳ Planned | Repository coming soon |
+| **Part 5** | Linux Operations | ⏳ Planned | Repository not created yet |
+
+[← Back to IT HomeLab Journey](https://github.com/ali-turkoglu/IT-HomeLab-Journey)
 
 ---
 
